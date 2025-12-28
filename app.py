@@ -165,4 +165,5 @@ with tabs[2]:
     st.markdown('</div>', unsafe_allow_html=True)
 
 # --- FOOTER ---
+
 st.markdown("<p style='text-align:center; color:#475569; font-size:0.8rem;'>TITAN CORE v9.0 • PRO GRADE</p>", unsafe_allow_html=True)
